@@ -1,6 +1,6 @@
----
 
-# Simulado: Respostas Formatadas
+
+# Simulado: 
 
 **1.** Conceito de programação que constrói o código em volta do objeto e não apenas da lógica, facilitando alterações e manutenção.
 
